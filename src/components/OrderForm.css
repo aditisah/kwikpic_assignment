@@ -1,0 +1,38 @@
+.container{
+    height: 690px;
+    width: 420px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: rgb(241, 237, 237);
+}
+.form{
+    margin-top: 60px;
+    width: 100%;
+}
+.err{
+    color: rgb(198, 9, 9);
+    text-align: right;
+    clear: both;
+    float:right;
+    
+}
+ p{
+width: 100%;
+}
+label {
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+input{
+    height: 35px;
+    width: 190px;
+    float: right;
+}
+button{
+    width: 100px;
+}
